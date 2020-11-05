@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "eth-rpc-errors": "^3.0.0",
-    "safe-event-emitter": "^1.0.1"
+    "@metamask/safe-event-emitter": "^2.0.0"
   },
   "devDependencies": {
     "@metamask/eslint-config": "^2.1.0",
