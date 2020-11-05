@@ -1,6 +1,6 @@
 'use strict'
-
-const SafeEventEmitter = require('safe-event-emitter')
+// import SafeEventEmitter from '@metamask/safe-event-emitter';
+const SafeEventEmitter = require('@metamask/safe-event-emitter')
 const {
   serializeError,
   EthereumRpcError,
